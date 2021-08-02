@@ -18,5 +18,5 @@ The model is not perfect, but quite accurately detects objects on the transporte
 <img src="./results/mAP.png" height="400">  
 
 # Instead of end:
-Here is an idea, let artificial intelligence replace humans when sorting garbage, the solution is simple: we will sort plastic bottles by blowing them into a container with an air jet, the signal of which will be given by YOLO. Let's make the world a better and cleaner 😊!
+Here is an idea, let artificial intelligence replace humans when sorting garbage, the solution is simple: we will sort plastic bottles by blowing them into a special container with an air jet, the signal of which will be given by YOLO. Let's make the world a better and cleaner 😊!
 <img src="./results/YOLO sorting trash.png" height="400">
