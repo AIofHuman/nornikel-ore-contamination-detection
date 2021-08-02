@@ -1,0 +1,8 @@
+path: ./yolo_data  # dataset root dir
+train: train/images  # train images 
+val: val/images  # val images (relative to 'path')
+test: test/images # test images (optional)
+
+# Classes
+nc: 3  # number of classes
+names: [ 'armature', 'wood', 'other']
